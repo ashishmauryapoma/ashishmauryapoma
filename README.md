@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1B4F72&height=200&section=header&text=Ashish%20Maurya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B4F72&height=200&section=header&text=Ashish%20Maurya&fontSize=50&fontColor=2ECC71&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=20#gh-dark-mode-only" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,100:D4EFDF&height=200&section=header&text=Ashish%20Maurya&fontSize=50&fontColor=1B4F72&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=20#gh-light-mode-only" width="100%"/>
 </p>
 
 <h1 align="center">Hey Everyone 👋, I'm Ashish</h1>
@@ -68,3 +69,8 @@
 </p>
 
 <p align="center"><i>⭐ From <a href="https://github.com/ashishmauryapoma">ashishmauryapoma</a> — feel free to explore, star, and connect!</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B4F72&height=150&section=footer#gh-dark-mode-only" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,100:D4EFDF&height=150&section=footer#gh-light-mode-only" width="100%"/>
+</p>
