@@ -4,7 +4,6 @@
 
 <p align="left">
   🐍 Building Python apps and tools that solve real problems.<br>
-  📖 Focused on learning and improving every day.<br>
   ⚡ Enjoy working on a variety of backend & automation projects.<br>
   🤝 Open to collaboration.<br>
   🛠️ Offering Python development services.
