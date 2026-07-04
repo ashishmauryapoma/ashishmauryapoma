@@ -1,11 +1,9 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:1B4F72&amp;height=200&amp;section=header&amp;text=Ashish%20Maurya&amp;fontSize=50&amp;fontColor=2ECC71&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Python%20Developer&amp;descAlignY=55&amp;descSize=20">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,100:D4EFDF&height=200&section=header&text=Ashish%20Maurya&fontSize=50&fontColor=1B4F72&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B4F72&height=220&section=header&text=Hey%20Everyone%20%F0%9F%91%8B,%20I'm%20Ashish&fontSize=40&fontColor=2ECC71&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=18">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,100:D4EFDF&height=220&section=header&text=Hey%20Everyone%20%F0%9F%91%8B,%20I'm%20Ashish&fontSize=40&fontColor=1B4F72&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
   </picture>
 </p>
-
-<h1 align="center">Hey Everyone 👋, I'm Ashish</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Universe!;I+build+things+with+Python+%F0%9F%90%8D;Always+learning%2C+always+building." alt="Typing SVG" />
@@ -74,7 +72,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:1B4F72&amp;height=150&amp;section=footer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B4F72&height=150&section=footer">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,100:D4EFDF&height=150&section=footer" width="100%"/>
   </picture>
 </p>
