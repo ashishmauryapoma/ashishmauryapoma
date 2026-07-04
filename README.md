@@ -1,6 +1,8 @@
 <h1 align="center">Hey Everyone 👋, I'm Ashish</h1>
 
-<h3 align="center">💻 Welcome to My GitHub Universe!</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Universe!;I+build+things+with+Python+%F0%9F%90%8D;Always+learning%2C+always+building." alt="Typing SVG" />
+</h3>
 
 <p align="left">
   🐍 Building Python apps and tools that solve real problems.<br>
@@ -13,6 +15,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ashishmauryapoma&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+### 🤝 Connect with Me
 
 <p align="left">
   <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
