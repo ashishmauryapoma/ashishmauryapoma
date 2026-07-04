@@ -27,12 +27,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-lut.vercel.app/api?username=ashishmauryapoma&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-weld-phi-59.vercel.app/api?username=ashishmauryapoma&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=ashishmauryapoma&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-lut.vercel.app/api/top-langs/?username=ashishmauryapoma&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-weld-phi-59.vercel.app/api/top-langs/?username=ashishmauryapoma&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
