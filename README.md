@@ -71,11 +71,38 @@ Actively working on improving programming skills and exploring new technologies 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-dev&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&border_color=00D9FF)
+### 📈 GitHub Stats
+| Metric | Value |
+|--------|-------|
+| Total Repositories | 15+ |
+| Total Contributions | 500+ |
+| Public Gists | 8 |
+| Followers | 50+ |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-dev&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00D9FF&text_color=ffffff&border_color=00D9FF)
+### 🏆 GitHub Achievements
+- 🌟 Repository Stars: 150+
+- 🔄 Total Commits: 1000+
+- 🎯 Open Source Contributions: 20+
+- 📅 Member Since: 2022
 
 </div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🏰 Rajshee Palace - Restaurant Website
+**Full Stack Web Application**
+- Modern, responsive design with beautiful UI
+- Complete table reservation system
+- Interactive menu with filtering capabilities
+- Smooth animations and transitions
+- Real-time booking form with data storage
+- Mobile-first responsive approach
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Node.js, MongoDB
+
+[View Repository](#) | [Live Demo](#)
 
 ---
 
@@ -97,11 +124,22 @@ Actively working on improving programming skills and exploring new technologies 
 
 ---
 
-## 📈 Most Used Languages
+## � Languages & Tools I Use
 
 <div align="center">
-  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-dev&layout=donut&theme=dark&bg_color=0a0a0a&title_color=00D9FF&text_color=ffffff&border_color=00D9FF)
+
+### Most Used Languages
+
+| Language | Proficiency | Usage |
+|----------|------------|-------|
+| JavaScript | ⭐⭐⭐⭐⭐ | Frontend & Backend |
+| HTML5 | ⭐⭐⭐⭐⭐ | Web Structure |
+| CSS3 | ⭐⭐⭐⭐⭐ | Styling & Design |
+| React | ⭐⭐⭐⭐ | Frontend Framework |
+| Node.js | ⭐⭐⭐⭐ | Backend Development |
+| Python | ⭐⭐⭐ | Data & Automation |
+| MongoDB | ⭐⭐⭐⭐ | Database |
+| SQL | ⭐⭐⭐ | Databases |
 
 </div>
 
@@ -127,6 +165,63 @@ Actively working on improving programming skills and exploring new technologies 
 - 🤝 Collaborating with experienced developers
 
 ---
+
+## 🎁 Fun Facts About Me
+
+- 💻 Passionate about turning ideas into reality through code
+- ☕ Coffee and code are my best friends
+- 🌙 Night coder - most productive after sunset
+- 🚀 Excited about emerging technologies
+- 🎨 Love combining design and functionality
+- 🌍 Open to global collaboration
+- 📚 Lifelong learner
+
+---
+
+## 📝 2024 Goals
+
+- ✅ Build 5+ production-ready projects
+- ✅ Contribute actively to open-source
+- ✅ Master advanced JavaScript concepts
+- ✅ Complete web development certifications
+- ✅ Help fellow developers through mentoring
+- ✅ Launch my portfolio website
+- ✅ Expand professional network
+
+---
+
+## 💬 Let's Talk!
+
+<div align="center">
+
+### I'm always open to:
+- 💼 Job opportunities and freelance projects
+- 🤝 Collaboration on interesting projects
+- 💡 Discussing new ideas and technologies
+- 📞 Networking with fellow developers
+- 🎓 Mentoring and being mentored
+
+**Feel free to reach out!**
+
+</div>
+
+---
+
+## 📧 Contact Information
+
+<div align="center">
+
+**Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
+
+**Location:** Your City, Your Country
+
+**Timezone:** UTC +05:30
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🚀 Let's Build Something Great Together!
 
