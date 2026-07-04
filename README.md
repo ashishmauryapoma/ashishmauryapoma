@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">
-  🐍 Building Python apps and tools that solve real problems.<br>
+  🐍 Building Python apps, Bot automations and tools that solve real problems.<br>
   ⚡ Enjoy working on a variety of backend & automation projects.<br>
   🤝 Open to collaboration.<br>
   🛠️ Offering Python development services.
