@@ -37,6 +37,7 @@ jobs:
           USERNAME: ashishmauryapoma
         run: |
           python generate_3d_gif.py
+          sudo chown -R $USER:$USER dist
           mv profile-3d-contrib.gif dist/
 
       - name: Push everything to "output" branch
