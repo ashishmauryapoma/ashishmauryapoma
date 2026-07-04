@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B4F72&height=220&section=header&text=Hey%20Everyone%20%F0%9F%91%8B,%20I'm%20Ashish&fontSize=40&fontColor=2ECC71&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=18">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,100:D4EFDF&height=220&section=header&text=Hey%20Everyone%20%F0%9F%91%8B,%20I'm%20Ashish&fontSize=40&fontColor=1B4F72&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1B4F72&height=220&section=header&text=Hey%20Everyone%20%F0%9F%91%8B%2C%20I%27m%20Ashish&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <h3 align="center">
@@ -71,8 +68,5 @@
 <p align="center"><i>⭐ From <a href="https://github.com/ashishmauryapoma">ashishmauryapoma</a> — feel free to explore, star, and connect!</i></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B4F72&height=150&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,100:D4EFDF&height=150&section=footer" width="100%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1B4F72&height=150&section=footer" width="100%"/>
 </p>
