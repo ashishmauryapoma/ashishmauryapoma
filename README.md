@@ -79,23 +79,6 @@ Actively working on improving programming skills and exploring new technologies 
 
 ---
 
-## 🎯 Featured Projects
-
-### 🏰 Rajshee Palace - Restaurant Website
-**Full Stack Web Application**
-- Modern, responsive design with beautiful UI
-- Complete table reservation system
-- Interactive menu with filtering capabilities
-- Smooth animations and transitions
-- Real-time booking form with data storage
-- Mobile-first responsive approach
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Node.js, MongoDB
-
-[View Repository](#) | [Live Demo](#)
-
----
-
 ## 🌟 Skills & Expertise
 
 **Programming Languages:**
@@ -144,63 +127,6 @@ Actively working on improving programming skills and exploring new technologies 
 - 🤝 Collaborating with experienced developers
 
 ---
-
-## 🎁 Fun Facts About Me
-
-- 💻 Passionate about turning ideas into reality through code
-- ☕ Coffee and code are my best friends
-- 🌙 Night coder - most productive after sunset
-- 🚀 Excited about emerging technologies
-- 🎨 Love combining design and functionality
-- 🌍 Open to global collaboration
-- 📚 Lifelong learner
-
----
-
-## 📝 2024 Goals
-
-- ✅ Build 5+ production-ready projects
-- ✅ Contribute actively to open-source
-- ✅ Master advanced JavaScript concepts
-- ✅ Complete web development certifications
-- ✅ Help fellow developers through mentoring
-- ✅ Launch my portfolio website
-- ✅ Expand professional network
-
----
-
-## 💬 Let's Talk!
-
-<div align="center">
-
-### I'm always open to:
-- 💼 Job opportunities and freelance projects
-- 🤝 Collaboration on interesting projects
-- 💡 Discussing new ideas and technologies
-- 📞 Networking with fellow developers
-- 🎓 Mentoring and being mentored
-
-**Feel free to reach out!**
-
-</div>
-
----
-
-## 📧 Contact Information
-
-<div align="center">
-
-**Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
-
-**Location:** Your City, Your Country
-
-**Timezone:** UTC +05:30
-
-</div>
-
----
-
-<div align="center">
 
 ### 🚀 Let's Build Something Great Together!
 
