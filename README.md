@@ -24,7 +24,7 @@ Student • Python Developer • AI Enthusiast • JEE Aspirant
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=bots,html,kali,linux,py,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=bots,html,kali,linux,py,git,github,vscode,c,cpp"/>
 
 </p>
 
