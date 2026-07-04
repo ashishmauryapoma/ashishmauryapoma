@@ -55,8 +55,6 @@
   <img src="https://raw.githubusercontent.com/ashishmauryapoma/ashishmauryapoma/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-<p align="center"><i>⭐ From <a href="https://github.com/ashishmauryapoma">ashishmauryapoma</a> — feel free to explore, star, and connect!</i></p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1B4F72&height=150&section=footer" width="100%"/>
 </p>
