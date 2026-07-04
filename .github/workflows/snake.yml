@@ -24,21 +24,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install Python dependencies
-        run: pip install requests matplotlib pillow numpy
-
-      - name: Generate rotating 3D contribution GIF
+      - name: Generate static 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ashishmauryapoma
+
+      - name: Move 3D graph into dist folder
         run: |
-          python generate_3d_gif.py
+          sudo mkdir -p dist/profile-3d-contrib
+          sudo cp profile-3d-contrib/*.svg dist/profile-3d-contrib/
           sudo chown -R $USER:$USER dist
-          mv profile-3d-contrib.gif dist/
 
       - name: Push everything to "output" branch
         uses: crazy-max/ghaction-github-pages@v4
