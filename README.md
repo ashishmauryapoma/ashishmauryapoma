@@ -22,7 +22,7 @@
   <a href="mailto:ashishmauryapoma@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://linkedin.com/in/EDIT_ME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://instagram.com/ashish_maurya________"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://t.me/EDIT_ME"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" /></a>
+  <a href="https://t.me/ashishmaurya03"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" /></a>
   <a href="https://twitter.com/EDIT_ME"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
