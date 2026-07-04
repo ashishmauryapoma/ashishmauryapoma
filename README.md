@@ -8,7 +8,6 @@
 
 <p align="left">
   🐍 Building Python apps and tools that solve real problems.<br>
-  📖 Focused on learning and improving every day.<br>
   ⚡ Enjoy working on a variety of backend & automation projects.<br>
   🤝 Open to collaboration.<br>
   🛠️ Offering Python development services.
@@ -21,10 +20,8 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://linkedin.com/in/EDIT_ME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://instagram.com/EDIT_ME"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://t.me/EDIT_ME"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" /></a>
   <a href="https://twitter.com/EDIT_ME"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
@@ -43,15 +40,8 @@
 
 ---
 
-### 📈 Contribution Graph
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishmauryapoma&theme=react-dark&hide_border=true" alt="contribution graph"/>
-</p>
-
----
-
-### 🧊 3D Contribution Graph
+### 🧊 Contribution Graph
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/ashishmauryapoma/ashishmauryapoma/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
@@ -59,7 +49,7 @@
 
 ---
 
-### 🐍 Snake Contribution Animation
+### 🐍 Contribution Animation
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/ashishmauryapoma/ashishmauryapoma/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
