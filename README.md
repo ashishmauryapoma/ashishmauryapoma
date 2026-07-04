@@ -48,7 +48,7 @@
 
 ---
 
-### 🐍 Snake Contribution Animation
+### 🐍 Contribution Animation
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/ashishmauryapoma/ashishmauryapoma/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
