@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1B4F72&height=200&section=header&text=Ashish%20Maurya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
+</p>
+
 <h1 align="center">Hey Everyone 👋, I'm Ashish</h1>
 
 <h3 align="center">
@@ -19,9 +23,10 @@
 ### 🤝 Connect with Me
 
 <p align="left">
+  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://linkedin.com/in/EDIT_ME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/ashish_maurya________"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://t.me/ashishmaurya03"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" /></a>
+  <a href="https://instagram.com/EDIT_ME"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://t.me/EDIT_ME"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" /></a>
   <a href="https://twitter.com/EDIT_ME"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
@@ -48,7 +53,15 @@
 
 ---
 
-### 🐍 Contribution Animation
+### 🧊 3D Contribution Graph
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ashishmauryapoma/ashishmauryapoma/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+</p>
+
+---
+
+### 🐍 Snake Contribution Animation
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/ashishmauryapoma/ashishmauryapoma/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
