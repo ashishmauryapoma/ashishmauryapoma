@@ -4,6 +4,7 @@
 
 <p align="left">
   🐍 Building Python apps and tools that solve real problems.<br>
+  📖 Focused on learning and improving every day.<br>
   ⚡ Enjoy working on a variety of backend & automation projects.<br>
   🤝 Open to collaboration.<br>
   🛠️ Offering Python development services.
@@ -44,18 +45,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishmauryapoma&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
-
----
-
 ### 🐍 Snake Contribution Animation
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ashishmauryapoma/ashishmauryapoma/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/ashishmauryapoma/ashishmauryapoma/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 <p align="center"><i>⭐ From <a href="https://github.com/ashishmauryapoma">ashishmauryapoma</a> — feel free to explore, star, and connect!</i></p>
