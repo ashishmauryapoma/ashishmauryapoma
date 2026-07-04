@@ -64,6 +64,7 @@ Student • Python Developer • AI Enthusiast • JEE Aspirant
 
 # 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashishmauryapoma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ashishmauryapoma&theme=tokyonight&margin-w=10&margin-h=10"/>
