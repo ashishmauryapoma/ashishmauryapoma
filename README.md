@@ -20,9 +20,9 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/EDIT_ME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/EDIT_ME"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://twitter.com/EDIT_ME"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://linkedin.com/in/ashishmauryapoma"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://instagram.com/ashish_maurya_______"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://twitter.com/ashishmauryapoma"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
